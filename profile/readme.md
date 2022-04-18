@@ -1,4 +1,4 @@
-[![RubyBots.co's Banner](../assets/Banner%20(3).png)](https://rubybots.co)
+[![RubyBots.co's Banner](../assets/Banner (3).png)](https://rubybots.co)
 
 Hey 👋 we are rubybots! We help improve your discord experience by bring the best bots / resources for you needs! Help manage your servers support, moderation and so much more! Keep track of your servers statisitcs, help your server member activiy & community engagement!
 
