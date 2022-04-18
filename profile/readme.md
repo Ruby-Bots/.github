@@ -9,4 +9,5 @@ Our favorite/most popular applications can be viewed below! All our other projec
 
  - [Helper.solar](https://helper.solar) - Manage your servers tickets with ease!
  - [Jade](https://jade.rubybots.co) - A general multi-purpose discord bot to fit all of your server needs!
+ - [Rubybots.co](https://rubybots.co) - Our website! Built with express & ejs! 👀
  - [Ruby](https://bot.rubybots.co) - Our main bot! *Coming Soon* 👀
